@@ -1,0 +1,23 @@
+{
+  "name": "ChuckNorrisJokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craneswalker/ChuckNorrisJokes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craneswalker/ChuckNorrisJokes/issues"
+  },
+  "homepage": "https://github.com/craneswalker/ChuckNorrisJokes#readme",
+  "dependencies": {
+    "cypress": "^2.1.0"
+  }
+}
