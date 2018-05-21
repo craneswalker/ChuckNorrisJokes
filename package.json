@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/craneswalker/ChuckNorrisJokes#readme",
   "dependencies": {
-    "cypress": "^2.1.0"
+    "cypress": "^2.1.0",
+    "hoek": "^5.0.3"
   }
 }
