@@ -6,7 +6,7 @@
 > If you just love corny jokes...its great for you too.
 > Stop by and have a laugh.  However, be careful, Chuck doesn't like you joking about him.
 
-![Chuckles Norris](https://github.com/craneswalker/ChuckNorrisJokes/blob/master/src/assets/Screen%20Shot%202018-06-06%20at%206.02.36%20PM.png) "Chuckles Norris"
+![Chuckles Norris](https://github.com/craneswalker/ChuckNorrisJokes/blob/master/assets/Screen%20Shot%202018-06-06%20at%206.02.36%20PM.png) "Chuckles Norris"
 
 ## Installation Instructions:
 >$npm install
